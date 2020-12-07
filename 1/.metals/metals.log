@@ -1,0 +1,520 @@
+2020.12.01 13:32:47 INFO  Started: Metals version 0.9.7 in workspace '/Users/alexandresikiaridis/AdventOfCode/1' for client vscode.
+2020.12.01 13:32:53 INFO  time: initialize in 6.5s
+2020.12.01 13:32:56 WARN  Build server is not auto-connectable.
+2020.12.01 13:32:56 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 13:32:56 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/2020mul.scala
+2020.12.01 13:33:08 INFO  no build target: using presentation compiler with only scala-library
+2020.12.01 13:33:08 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/2020mul.scala
+Dec 01, 2020 1:33:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+Dec 01, 2020 1:33:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+Dec 01, 2020 1:33:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4
+Dec 01, 2020 1:33:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11
+Dec 01, 2020 1:33:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+Dec 01, 2020 1:33:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+Dec 01, 2020 1:33:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+Dec 01, 2020 1:33:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13
+Dec 01, 2020 1:33:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14
+Dec 01, 2020 1:33:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15
+Dec 01, 2020 1:33:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18
+Dec 01, 2020 1:33:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 20
+Dec 01, 2020 1:33:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 19
+Dec 01, 2020 1:33:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22
+Dec 01, 2020 1:33:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 24
+Dec 01, 2020 1:33:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23
+Dec 01, 2020 1:33:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 21
+2020.12.01 13:33:12 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/2020mul.scala
+2020.12.01 13:33:26 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/2020mul.scala
+2020.12.01 13:33:34 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/2020mul.scala
+2020.12.01 13:33:42 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/2020mul.scala
+2020.12.01 13:34:07 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/2020mul.scala
+2020.12.01 13:34:18 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/2020mul.scala
+2020.12.01 13:34:24 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 13:34:24 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 13:34:24 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 13:34:25 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/2020mul.scala
+2020.12.01 13:34:40 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/2020mul.scala
+2020.12.01 13:34:47 ERROR scalafmt: /Users/alexandresikiaridis/AdventOfCode/1/2020mul.scala:3: error: Invalid literal number
+object 2020mul {
+       ^
+Dec 01, 2020 1:34:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 255
+Dec 01, 2020 1:34:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 256
+2020.12.01 13:34:47 ERROR scalafmt: /Users/alexandresikiaridis/AdventOfCode/1/2020mul.scala:3: error: Invalid literal number
+object 2020mul {
+       ^
+2020.12.01 13:34:47 ERROR scalafmt: /Users/alexandresikiaridis/AdventOfCode/1/2020mul.scala:3: error: Invalid literal number
+object 2020mul {
+       ^
+2020.12.01 13:34:47 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/2020mul.scala
+2020.12.01 13:39:15 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/2020mul.scala
+2020.12.01 13:39:35 ERROR scalafmt: /Users/alexandresikiaridis/AdventOfCode/1/2020mul.scala:9: error: illegal start of declaration (possible cause: missing `=' in front of current method body)
+      if numbers.length
+      ^
+2020.12.01 13:39:35 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/2020mul.scala
+2020.12.01 13:39:51 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 13:39:53 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 13:39:53 ERROR scalafmt: /Users/alexandresikiaridis/AdventOfCode/1/2020mul.scala:9: error: illegal start of declaration (possible cause: missing `=' in front of current method body)
+      if numbers.
+      ^
+2020.12.01 13:39:53 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/2020mul.scala
+2020.12.01 13:40:04 ERROR scalafmt: /Users/alexandresikiaridis/AdventOfCode/1/2020mul.scala:9: error: illegal start of declaration (possible cause: missing `=' in front of current method body)
+      if
+      ^
+2020.12.01 13:40:04 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/2020mul.scala
+2020.12.01 13:40:04 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 13:40:31 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/2020mul.scala
+2020.12.01 13:40:43 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/2020mul.scala
+2020.12.01 13:40:53 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 13:40:57 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 13:40:57 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 13:42:20 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/2020mul.scala
+2020.12.01 13:42:54 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/2020mul.scala
+2020.12.01 13:43:01 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 13:43:01 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 13:43:14 ERROR scalafmt: /Users/alexandresikiaridis/AdventOfCode/1/2020mul.scala:9: error: illegal start of declaration (possible cause: missing `=' in front of current method body)
+      if (numbers.size < 2) (0, 0)
+      ^
+2020.12.01 13:43:14 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/2020mul.scala
+2020.12.01 13:43:20 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Dec 01, 2020 1:43:20 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Dec 01, 2020 1:43:20 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 
+  unexpected tree: class scala.reflect.internal.Trees$Template
+scala.Tuple2[Int, Int]
+     while compiling: file:///Users/alexandresikiaridis/AdventOfCode/1/2020mul.scala
+        during phase: globalPhase=<no phase>, enteringPhase=parser
+     library version: version 2.12.12
+    compiler version: version 2.12.12
+  reconstructed args: -classpath /Users/alexandresikiaridis/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.12/scala-library-2.12.12.jar -Ymacro-expand:discard -Ycache-plugin-class-loader:last-modified -Ypresentation-any-thread
+
+  last tree to typer: Template
+       tree position: line 8 of file:///Users/alexandresikiaridis/AdventOfCode/1/2020mul.scala
+              symbol: <none>
+   symbol definition: <none> (a NoSymbol)
+      symbol package: <none>
+       symbol owners: 
+           call site: <none> in <none>
+
+== Source file context for tree position ==
+
+     5     val filename: String = "expenseReport.txt"
+     6     val nums: List[Int] = Source.fromFile(filename).getLines.map(_.toInt)
+     7     
+     8     def binarySumFind(numbers: List[Int]): (Int, Int) {
+     9       if (numbers.size < 2) (0, 0)
+    10       else {
+    11         val middleIndex = numbers.size / 2
+scala.reflect.internal.FatalError: 
+  unexpected tree: class scala.reflect.internal.Trees$Template
+scala.Tuple2[Int, Int]
+     while compiling: file:///Users/alexandresikiaridis/AdventOfCode/1/2020mul.scala
+        during phase: globalPhase=<no phase>, enteringPhase=parser
+     library version: version 2.12.12
+    compiler version: version 2.12.12
+  reconstructed args: -classpath /Users/alexandresikiaridis/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.12/scala-library-2.12.12.jar -Ymacro-expand:discard -Ycache-plugin-class-loader:last-modified -Ypresentation-any-thread
+
+  last tree to typer: Template
+       tree position: line 8 of file:///Users/alexandresikiaridis/AdventOfCode/1/2020mul.scala
+              symbol: <none>
+   symbol definition: <none> (a NoSymbol)
+      symbol package: <none>
+       symbol owners: 
+           call site: <none> in <none>
+
+== Source file context for tree position ==
+
+     5     val filename: String = "expenseReport.txt"
+     6     val nums: List[Int] = Source.fromFile(filename).getLines.map(_.toInt)
+     7     
+     8     def binarySumFind(numbers: List[Int]): (Int, Int) {
+     9       if (numbers.size < 2) (0, 0)
+    10       else {
+    11         val middleIndex = numbers.size / 2
+	at scala.reflect.internal.Reporting.abort(Reporting.scala:68)
+	at scala.reflect.internal.Reporting.abort$(Reporting.scala:64)
+	at scala.reflect.internal.SymbolTable.abort(SymbolTable.scala:28)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedOutsidePatternMode$1(Typers.scala:5671)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5688)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5724)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedQualifier(Typers.scala:5808)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitionTypedTreeAt(PcDefinitionProvider.scala:111)
+	at scala.meta.internal.pc.PcDefinitionProvider.definition(PcDefinitionProvider.scala:24)
+
+2020.12.01 13:43:22 ERROR scalafmt: /Users/alexandresikiaridis/AdventOfCode/1/2020mul.scala:16: error: illegal start of simple expression
+      }
+      ^
+2020.12.01 13:43:22 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/2020mul.scala
+2020.12.01 13:43:28 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/2020mul.scala
+2020.12.01 13:43:56 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/2020mul.scala
+2020.12.01 13:44:06 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/2020mul.scala
+2020.12.01 13:44:22 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/2020mul.scala
+2020.12.01 13:46:10 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 13:46:25 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/2020mul.scala
+2020.12.01 13:46:48 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/2020mul.scala
+2020.12.01 13:47:13 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/2020mul.scala
+2020.12.01 13:47:16 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/2020mul.scala
+2020.12.01 13:47:21 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/2020mul.scala
+2020.12.01 13:47:41 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 13:47:45 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 13:47:59 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 13:48:16 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 13:49:01 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 13:49:05 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 13:50:42 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 13:51:13 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 13:51:29 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 13:52:24 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 13:52:29 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 13:53:48 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 13:53:57 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 13:54:01 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 13:54:11 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 13:54:32 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 13:54:50 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 13:55:04 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 13:55:13 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 13:55:22 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 13:55:29 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 13:55:51 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 13:56:01 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 13:56:02 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 13:56:04 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+something's wrong: no file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala in Array[String]RangePosition(file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala, 65, 65, 78)
+2020.12.01 13:58:02 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 16:46:57 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 16:46:57 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 16:46:58 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 16:47:02 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 16:47:18 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 16:47:45 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 16:48:03 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 16:48:16 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 16:48:38 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 16:49:03 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+something's wrong: no file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala in (Int, <error>)RangePosition(file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala, 1183, 1183, 1197)
+2020.12.01 16:49:11 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 16:49:15 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 16:49:19 ERROR scalafmt: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala:33: error: identifier expected but [ found
+    val components2020: [Int, Int] =
+                        ^
+2020.12.01 16:49:19 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 16:49:22 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 16:49:34 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 16:49:49 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 16:50:01 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 16:50:01 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 16:50:02 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 16:52:06 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+something's wrong: no file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala in List[<error>]RangePosition(file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala, 1149, 1149, 1163)
+something's wrong: no file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala in List[<error>]RangePosition(file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala, 1149, 1149, 1156)
+something's wrong: no file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala in List[Int]RangePosition(file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala, 1149, 1149, 1158)
+something's wrong: no file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala in List[Int]RangePosition(file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala, 1149, 1149, 1158)
+something's wrong: no file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala in List[Int]RangePosition(file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala, 1149, 1149, 1158)
+2020.12.01 16:53:05 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 16:53:14 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 16:54:06 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 16:54:24 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 16:54:41 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 16:56:37 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 16:57:18 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 16:57:32 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 16:58:26 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 16:58:28 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 16:58:30 ERROR scalafmt: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala:41: error: illegal start of simple expression
+      sourceNums.map((_, TARGET - _)).find((num, left) => )
+                                                          ^
+2020.12.01 16:58:30 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 16:58:37 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 16:58:49 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 16:58:49 ERROR scalafmt: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala:44: error: illegal start of simple expression
+      sourceNums.map((_, TARGET - _)).find((num, left) => )
+                                                          ^
+2020.12.01 16:58:49 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 16:58:53 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 16:58:53 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 16:58:53 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 16:58:54 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 16:59:03 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 16:59:18 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 16:59:29 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 16:59:44 ERROR scalafmt: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala:44: error: illegal start of simple expression
+      sourceNums.map((_, TARGET - _)).find((num, left) => )
+                                                          ^
+2020.12.01 16:59:44 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 16:59:47 ERROR scalafmt: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala:44: error: illegal start of simple expression
+      sourceNums.map((_, TARGET - _)).find((num, left) => )
+                                                          ^
+2020.12.01 16:59:47 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 16:59:56 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:00:29 ERROR scalafmt: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala:46: error: illegal start of simple expression
+      sourceNums.map((_, TARGET - _)).find((num, left) => )
+                                                          ^
+2020.12.01 17:00:29 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:00:53 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:04:07 ERROR scalafmt: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala:45: error: illegal start of simple expression
+        sourceNums.map((_, TARGET - _)).find((num, left) => )
+                                                            ^
+2020.12.01 17:04:07 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:04:09 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 17:04:12 ERROR scalafmt: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala:45: error: illegal start of simple expression
+        sourceNums.map((_, TARGET - _)).find((num, left) => )
+                                                            ^
+2020.12.01 17:04:12 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:04:12 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 17:04:13 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 17:04:26 ERROR scalafmt: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala:45: error: illegal start of simple expression
+        sourceNums.map((_, TARGET - _)).find((num, left) => )
+                                                            ^
+2020.12.01 17:04:26 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:04:27 ERROR scalafmt: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala:45: error: illegal start of simple expression
+        sourceNums.map((_, TARGET - _)).find((num, left) => )
+                                                            ^
+2020.12.01 17:04:27 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:04:42 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 17:04:42 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:05:41 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:06:00 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:06:18 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:06:36 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:06:55 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:07:06 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:08:56 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:08:58 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 17:09:07 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:09:20 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:09:31 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:10:08 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:10:17 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:10:24 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:10:28 ERROR scalafmt: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala:46: error: illegal start of simple expression
+        sourceNums.map((_, TARGET - _)).find((num, left) => )
+                                                            ^
+2020.12.01 17:10:28 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+something's wrong: no file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala in List[Int]RangePosition(file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala, 1182, 1182, 1191)
+something's wrong: no file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala in List[Int]RangePosition(file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala, 1182, 1182, 1191)
+2020.12.01 17:10:41 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 17:10:41 ERROR scalafmt: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala:46: error: illegal start of simple expression
+        sourceNums.map((_, TARGET - _)).find((num, left) => )
+                                                            ^
+2020.12.01 17:10:41 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:11:11 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:11:19 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:11:51 ERROR scalafmt: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala:42: error: ; expected but ) found
+          case None        => List(0))
+                                     ^
+2020.12.01 17:11:51 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:11:55 ERROR scalafmt: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala:42: error: ; expected but ) found
+          case None        => List(0))
+                                     ^
+2020.12.01 17:11:55 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:11:57 ERROR scalafmt: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala:46: error: illegal start of simple expression
+        sourceNums.map((_, TARGET - _)).find((num, left) => )
+                                                            ^
+2020.12.01 17:11:57 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:13:40 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+something's wrong: no file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala in scala.collection.immutable.HashSet[Int]RangePosition(file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala, 1182, 1182, 1194)
+something's wrong: no file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala in List[<error>]RangePosition(file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala, 1286, 1286, 1300)
+something's wrong: no file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala in List[<error>]RangePosition(file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala, 1286, 1286, 1293)
+Dec 01, 2020 5:14:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4651
+something's wrong: no file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala in List[<error>]RangePosition(file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala, 1291, 1291, 1305)
+something's wrong: no file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala in List[<error>]RangePosition(file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala, 1291, 1291, 1298)
+something's wrong: no file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala in List[<error>]RangePosition(file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala, 1291, 1291, 1299)
+something's wrong: no file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala in List[Int]RangePosition(file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala, 1291, 1291, 1300)
+something's wrong: no file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala in List[Int]RangePosition(file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala, 1291, 1291, 1300)
+something's wrong: no file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala in List[Int]RangePosition(file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala, 1291, 1291, 1300)
+2020.12.01 17:14:42 ERROR scalafmt: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala:47: error: illegal start of simple expression
+        sourceNums.map((_, TARGET - _)).find((num, left) => )
+                                                            ^
+2020.12.01 17:14:42 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+Dec 01, 2020 5:14:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4745
+2020.12.01 17:15:09 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:15:14 ERROR scalafmt: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala:47: error: illegal start of simple expression
+        sourceNums.map((_, TARGET - _)).map((num, left) => )
+                                                           ^
+2020.12.01 17:15:14 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:15:37 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 17:15:37 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 17:15:38 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 17:16:03 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:16:22 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:16:30 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 17:16:36 ERROR scalafmt: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala:48: error: illegal start of simple expression
+          findNumsToSum(sourceNums - num, targetSum - num, numsToFind - 1, )
+                                                                           ^
+2020.12.01 17:16:36 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+Dec 01, 2020 5:16:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5088
+2020.12.01 17:16:46 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:17:06 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:17:07 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:17:13 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 17:17:13 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 17:17:16 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 17:17:16 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:17:17 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 17:17:18 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:17:50 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 17:17:50 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 17:17:50 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 17:17:50 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:17:53 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:17:54 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:18:30 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:18:30 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 17:18:41 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:18:45 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:18:50 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:18:56 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:19:05 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:19:10 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:19:12 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 17:19:36 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:19:54 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:20:07 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:20:20 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:20:31 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:20:45 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:20:49 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:21:02 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:21:44 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:21:49 ERROR scalafmt: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala:67: error: ; expected but ( found
+    val components2020 = (candidates.size > 0) ? candidates.head : List(0)
+                                                                       ^
+2020.12.01 17:21:49 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:22:07 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:22:09 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:22:10 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+something's wrong: no file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala in List[<error>]RangePosition(file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala, 2079, 2079, 2093)
+something's wrong: no file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala in List[<error>]RangePosition(file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala, 2079, 2079, 2086)
+Dec 01, 2020 5:22:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6037
+something's wrong: no file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala in List[<error>]RangePosition(file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala, 2084, 2084, 2098)
+something's wrong: no file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala in List[<error>]RangePosition(file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala, 2084, 2084, 2091)
+something's wrong: no file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala in List[Int]RangePosition(file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala, 2084, 2084, 2093)
+something's wrong: no file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala in List[Int]RangePosition(file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala, 2084, 2084, 2093)
+2020.12.01 17:22:23 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+something's wrong: no file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala in List[Int]RangePosition(file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala, 2084, 2084, 2093)
+2020.12.01 17:22:28 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:22:41 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:23:01 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:23:02 ERROR scalafmt: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala:70: error: ) expected but } found
+  }
+  ^
+2020.12.01 17:23:02 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:23:04 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+something's wrong: no file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala in List[List[Int]]RangePosition(file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala, 1288, 1288, 1303)
+2020.12.01 17:45:27 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:46:04 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:46:32 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 17:47:22 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:48:06 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:48:12 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:48:36 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:48:53 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 17:48:54 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 17:49:48 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:50:13 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:52:18 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:53:06 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 17:53:06 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:53:34 ERROR scalafmt: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala:59: error: illegal start of statement
+      yield (a, b, TARGET - (a + b))
+      ^
+2020.12.01 17:53:34 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:53:36 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:54:14 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 17:54:14 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 17:54:14 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:54:17 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:54:55 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:55:27 ERROR scalafmt: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala:60: error: ; expected but yield found
+      yield (a, b, missingNum)
+      ^
+2020.12.01 17:55:27 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:55:38 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:55:49 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:56:10 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:56:14 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:56:35 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:56:40 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:57:16 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:57:31 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:57:32 ERROR scalafmt: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala:65: error: ) expected but } found
+  }
+  ^
+2020.12.01 17:57:32 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:57:34 ERROR scalafmt: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala:72: error: ) expected but val found
+    val candidates: List[List[Int]] = findNumsToSum(nums, TARGET, 3, List(), List(List()))
+    ^
+2020.12.01 17:57:34 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:57:36 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:57:40 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 17:57:40 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:57:40 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 17:57:42 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 17:57:49 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:57:51 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 17:57:51 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 17:57:51 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 17:57:51 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:57:51 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+something's wrong: no file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala in (Int, <error>)RangePosition(file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala, 1945, 1945, 1959)
+something's wrong: no file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala in (Int, Int, <error>)RangePosition(file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala, 1945, 1945, 1965)
+2020.12.01 17:58:01 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 17:58:01 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 17:58:03 ERROR scalafmt: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala:58: error: is not a valid block statement
+    val twoCombinations: (Int, Int)) = for (a <- nums; b <- nums) yield (a, b)
+    ^
+2020.12.01 17:58:03 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:58:05 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:58:09 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 17:58:09 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 17:58:12 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:58:12 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 17:58:14 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+something's wrong: no file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala in (Int, Int)RangePosition(file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala, 1889, 1889, 1899)
+2020.12.01 17:58:35 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+Dec 01, 2020 5:58:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7688
+2020.12.01 17:58:51 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:58:51 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+something's wrong: no file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala in Array[String]RangePosition(file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala, 65, 65, 78)
+2020.12.01 17:59:00 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 17:59:00 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:59:13 ERROR scalafmt: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala:59: error: illegal start of simple expression
+    val threeNums: (Int, Int, Int) = twoCombinations.map(case (a, b) => {
+                                                         ^
+2020.12.01 17:59:13 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:59:27 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+something's wrong: no file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala in (Int, Int, Int)RangePosition(file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala, 1917, 1917, 1932)
+2020.12.01 17:59:40 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 17:59:59 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 18:00:29 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 18:00:39 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+something's wrong: no file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala in List[(Int, Int, Int)]RangePosition(file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala, 1912, 1912, 1933)
+something's wrong: no file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala in List[(Int, Int, Int)]RangePosition(file:///Users/alexandresikiaridis/AdventOfCode/1/components2020.scala, 1912, 1912, 1933)
+2020.12.01 18:00:49 WARN  no build tool detected in workspace '/Users/alexandresikiaridis/AdventOfCode/1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.01 18:01:14 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.01 18:01:14 WARN  no build target for: /Users/alexandresikiaridis/AdventOfCode/1/components2020.scala
+2020.12.02 09:04:52 INFO  shutting down Metals
