@@ -1,0 +1,9 @@
+{
+    "author": "AlexSikia",
+    "name": "advent-of-code2020-day-5",
+    "version": "0.0.1",
+    "engines": {"node": "13.7.0"},
+    "dependencies": {
+        "ramda": "0.27.1"
+    }
+}
