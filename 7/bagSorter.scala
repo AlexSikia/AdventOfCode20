@@ -1,7 +1,7 @@
 import scala.io.Source
 import scala.collection.immutable.HashMap
 
-object toboganSteer {
+object bagSorter {
   def main(args: Array[String]): Unit = {
     val filename: String        = "bagRules.txt"
     val rules: List[String] = Source.fromFile(filename).getLines.toList
