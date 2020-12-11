@@ -2,3 +2,6 @@
 .metals/
 .scalafmt.conf
 .vscode/
+.DS_Store
+*/project/
+*/target/
